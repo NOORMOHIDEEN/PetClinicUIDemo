@@ -1,6 +1,6 @@
 Feature: pet details
 
-    Scenario: Verify pet details
+    Scenario: Add pet details
         Given User is on pet clinic website
         And User is on "FIND OWNERS" page
         When User is navigate to "Add Owner" page
